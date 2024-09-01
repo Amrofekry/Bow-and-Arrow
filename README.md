@@ -1,4 +1,5 @@
 PLEAZE NOTE!
+انا بحب الكلب 
 there are credit scenes in the code, you must install GStreamer in order to watch it. otherwise, just ignore video library and all codes related to it.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 We have added:
