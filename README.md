@@ -15,15 +15,9 @@ We have added:
 | Ziad Ashraf Abdo | 1 | 30 | Created Weezlebee and mainmenu clasess and devolped levels class|
 | Amro Fekry Elsaid | 2 | 9 | Created Targets classes|
 
-![Screenshot 2024-04-20 235129](https://github.com/sbme-tutorials/sbme27-s24-task1-bowandarrow-sbme27_s24_nerds-geeks/assets/69179893/030b155a-5ab1-4642-9c7c-87aa5c297fbc)
-
-![Screenshot 2024-04-20 235010](https://github.com/sbme-tutorials/sbme27-s24-task1-bowandarrow-sbme27_s24_nerds-geeks/assets/69179893/e7955a46-2db6-44be-a47c-b53d70b883c4)
-
-![Screenshot 2024-04-20 235227](https://github.com/sbme-tutorials/sbme27-s24-task1-bowandarrow-sbme27_s24_nerds-geeks/assets/69179893/a5917adb-5b6b-407a-aece-f18b4bbf9209)
-
-
 
 ![324207552-e7955a46-2db6-44be-a47c-b53d70b883c4](https://github.com/user-attachments/assets/a90166a2-826b-4c6e-8888-3007b21e73c9)
-![324207608-030b155a-5ab1-4642-9c7c-87aa5c297fbc](https://github.com/user-attachments/assets/3d0c64ff-5a2c-4e30-bb3b-d0fe1e80cd02)
-![324207612-a5917adb-5b6b-407a-aece-f18b4bbf9209](https://github.com/user-attachments/assets/73e469be-2a81-4d98-918e-bd880e44c06c)
 
+![324207608-030b155a-5ab1-4642-9c7c-87aa5c297fbc](https://github.com/user-attachments/assets/3d0c64ff-5a2c-4e30-bb3b-d0fe1e80cd02)
+
+![324207612-a5917adb-5b6b-407a-aece-f18b4bbf9209](https://github.com/user-attachments/assets/73e469be-2a81-4d98-918e-bd880e44c06c)
