@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3cb891ce-261d-42f7-8266-fdd2347d75d7" name="Changes" comment="دارت يا صيع">
+      <change afterPath="$PROJECT_DIR$/hs_err_pid11088.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid14272.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid1532.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid15388.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid17020.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid2756.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/user.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/user.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Levels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Target2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Target2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Targets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Targets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WeezleBee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WeezleBee.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2eujv3NXm1fpQNhHGkK4Vkr2xIj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.WeezleBee.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/a3abd/IdeaProjects/WeezleBee/WeezleBee/WeezleBee",
+    "onboarding.tips.debug.path": "D:/ZIprjects/WeezleBee/WeezleBee/src/Main.java"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="WeezleBee" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="WeezleBee" />
+      <module name="WeezleBee" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cb891ce-261d-42f7-8266-fdd2347d75d7" name="Changes" comment="" />
+      <created>1712761585014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712761585014</updated>
+    </task>
+    <task id="LOCAL-00001" summary="levels class added">
+      <option name="closed" value="true" />
+      <created>1712842338601</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712842338601</updated>
+    </task>
+    <task id="LOCAL-00002" summary="levels class added">
+      <option name="closed" value="true" />
+      <created>1712907532897</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712907532897</updated>
+    </task>
+    <task id="LOCAL-00003" summary="levels class added">
+      <option name="closed" value="true" />
+      <created>1712935771895</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712935771896</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Spell not working properly">
+      <option name="closed" value="true" />
+      <created>1713083794950</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713083794952</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Spell not working properly">
+      <option name="closed" value="true" />
+      <created>1713084469618</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713084469618</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Spell not working properly">
+      <option name="closed" value="true" />
+      <created>1713343284535</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713343284535</updated>
+    </task>
+    <task id="LOCAL-00007" summary="دارت يا صيع">
+      <option name="closed" value="true" />
+      <created>1713649503635</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713649503635</updated>
+    </task>
+    <task id="LOCAL-00008" summary="دارت يا صيع">
+      <option name="closed" value="true" />
+      <created>1713650335134</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713650335134</updated>
+    </task>
+    <task id="LOCAL-00009" summary="دارت يا صيع">
+      <option name="closed" value="true" />
+      <created>1713772740360</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713772740360</updated>
+    </task>
+    <task id="LOCAL-00010" summary="دارت يا صيع">
+      <option name="closed" value="true" />
+      <created>1713775428422</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713775428422</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="levels class added" />
+    <MESSAGE value="Spell not working properly" />
+    <MESSAGE value="Merge branch 'main' of https://github.com/sbme-tutorials/sbme27-s24-task1-bowandarrow-sbme27_s24_nerds-geeks" />
+    <MESSAGE value="دارت يا صيع" />
+    <option name="LAST_COMMIT_MESSAGE" value="دارت يا صيع" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeezleBee.java</url>
+          <line>193</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeezleBee.java</url>
+          <line>192</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeezleBee.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeezleBee.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeezleBee.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeezleBee.java</url>
+          <line>133</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeezleBee.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeezleBee.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeezleBee.java</url>
+          <line>172</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeezleBee.java</url>
+          <line>173</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeezleBee.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeezleBee.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeezleBee.java</url>
+          <line>184</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeezleBee.java</url>
+          <line>208</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeezleBee.java</url>
+          <line>209</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeezleBee.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
